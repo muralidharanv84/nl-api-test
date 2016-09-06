@@ -1,0 +1,103 @@
+AT&amp;T : Hello! How may I help you today?
+
+Bettie : Thank you for contacting AT&T, my name is Bettie. How can I help you today?
+
+Me : my internet suddenly stopped working
+
+Bettie : I apologize for the inconvenience. I can help you get this issue resolved.
+
+Bettie : I’ll look into this for you right away.
+
+Bettie : First, may I ask a few questions so we can resolve your issue?
+
+Me : sure
+
+Bettie : May I get a mobile telephone number that we may use to reach you via phone or text with information about your AT&T services?
+
+Me : my phone numbr linked to this account is 4254959849. But if you need to call me for this issue, please call me on 5126950266
+
+Bettie : Your number will only be used for informational and service related messages regarding your AT&T services.
+
+Bettie : If you are a non-AT&T wireless customer, text message rates and other charges may apply depending on your plan and provider.
+
+Bettie : Should I update the number you gave me as your primary contact number on the account?
+
+Me : no please don't change any number on the account
+
+Bettie : Sure.
+
+Bettie : To better assist you, I need a few minutes to run a line test.
+
+Me : sure
+
+Bettie : Thank you.
+
+Bettie : Would it be possible for you to walk up to the modem and check the broadband light if it is solid green>
+
+Me : its blinking red
+
+Bettie : Okay, thank you.
+
+Bettie : There is a problem in the network line providing service in the area.
+
+Bettie : I can dispatch a technician to resolve this issue. There is no charge for the technician visit if the trouble is found in the AT&T network or equipment. If the problem is found inside your premises and the technician fixes your issue, you will be charged a $99 flat rate for the repair. However, any charges will be discussed by the technician.
+
+Bettie : Will that be okay?
+
+Me : If the technician finds that the issue is within the premises, will the technician inform me first so I can decide whether I want the issue fixed by AT&T?
+
+Bettie : Absolutely.
+
+Me : and there is no charge for the diagnosis?
+
+Bettie : Not at all.
+
+Me : ok, please do dispatch a technician
+
+Bettie : Sure.
+
+Bettie : The earliest appointment available is on Sunday, between 1:00 PM - 4:00 PM.
+
+Me : that is tomorrow? That'll work
+
+Bettie : Sure, let me schedule it for you.
+
+Me : thanks
+
+Bettie : In case we need to reach you on the day of your appointment, what would be the best telephone number to call?
+
+Me : 4254959849
+
+Bettie : Thank you.
+
+Me : sure
+
+Bettie : I have scheduled your appointment for February 14, 2016. An AT&T technician will arrive as late as 4:00 PM or as early as 1:00 PM.
+
+Bettie : Your service call may take 2-4 hours after arrival to resolve the issue.
+
+Bettie : If the technician needs to contact you prior to arrival on the day of the Service Call, we will call you at 4254959849.
+
+Me : sounds good
+
+Bettie : You will receive a text message within 30 minutes with your appointment details. It will have a link to a tool that allows you to confirm your dispatch status.
+
+Bettie : Is there anything else I can assist you with today?
+
+Me : did your line test test service to my house or the area in general?
+
+Bettie : Line coming towards the house.
+
+Me : Unit 18 at 38627 cherry lane?
+
+Bettie : May be or the device on the pole?
+
+Me : ok
+
+Bettie : Is there anything else I can assist you with today?
+
+Me : nothing else. Thank you
+
+Bettie : It has been my pleasure chatting with you today.
+
+Bettie : Thank you for choosing AT&T, we appreciate your business. Need assistance in the future? Find troubleshooting tips/trick with our mobile app at att.com/myattapp on your smartphone browser. You may click the "Close" button in the chat window to close this chat.
